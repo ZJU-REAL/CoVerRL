@@ -1,0 +1,23 @@
+hydra:
+  searchpath:
+    - file://verl/trainer/config
+
+defaults:
+  - ppo_trainer
+  - _self_
+
+cover_rl:
+  seed: 42
+  enable: false
+  num_turns: 2 # ttrl is 1
+  initial_rollout_n: 32
+  initial_rollout_sample_n: 32 
+  use_anchor_for_verifier: true 
+  double_check: all # non,all
+  verify_regenerate:
+    verifier_rollout_max_n: 8
+    regenerator_rollout_n: 6
+    choose_wrong_node_strategy: least_ratio # random,least_ratio. Select from answers with lowest ratio outside majority, or random
+  multi_turn_eval: true 
+  eval_max_turns: 2 # Number of evaluation rounds
+  enable_thinking: false # Control whether qwen3 uses thinking mode
