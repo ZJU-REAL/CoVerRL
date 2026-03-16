@@ -6,7 +6,7 @@ Generator-Verifier Co-Evolution</h1>
 <div align='center'> 
 
 [Teng Pan](mailto:pt6@zju.edu.cn)<sup>1,2,\*</sup>, &nbsp;
-[Yuchen Yan]<sup>1</sup>, &nbsp;
+Yuchen Yan<sup>1</sup>, &nbsp;
 Zixuan Wang<sup>1,2</sup>, &nbsp;
 Ruiqing Zhang<sup>2</sup>, &nbsp;
 <br>
