@@ -1,5 +1,6 @@
 <div align="center">
-     <h1>CoVerRL: Breaking the Consensus Trap in Label-Free Reasoning via Reinforcement Learning</h1>
+     <h1>CoVerRL: Breaking the Consensus Trap in Label-Free Reasoning via
+Generator-Verifier Co-Evolution</h1>
 </div>
 
 <div align='center'> 
