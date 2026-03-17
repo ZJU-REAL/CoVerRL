@@ -97,9 +97,6 @@ The training data is stored in ```verl/recipe/cover_rl/data/MATH-7500/math7500_t
 |                        | CoVerRL (Ours) | **76.8 / 79.6** | **47.6 / 49.2** | **14.6 / 17.1** | **36.2 / 37.2** | **43.8 / 45.8** |
 |                        | <font color="red">Δ</font> | <font color="red">+3.0 / +5.4</font> | <font color="red">+5.4 / +7.0</font> | <font color="red">+1.9 / +4.6</font> | <font color="red">+0.4 / +1.6</font> | <font color="red">+2.7 / +4.7</font> |
 
-<p align="center">
-  <img src="docs/static/images/main_results.png" width="100%" alt="Introduction Overview"/>
-</p>
 
 <p align="center">
   <img src="docs/static/images/intro.png" width="60%" alt="Introduction Overview"/>
@@ -118,8 +115,8 @@ Training dynamics of reward/label accuracy for TTRL and CoVerRL on Qwen3-1.7B-Ba
 
 If you find our work helpful, feel free to give us a cite.
 
-```
-<!-- @misc{yan2026inftythinkplus,
+<!-- ```
+@misc{yan2026inftythinkplus,
       title={CoVerRL: Breaking the Consensus Trap in Label-Free Reasoning via Generator-Verifier Co-Evolution}, 
       author={Yuchen Yan and Liang Jiang and Jin Jiang and Shuaicheng Li and Zujie Wen and Zhiqiang Zhang and Jun Zhou and Jian Shao and Yueting Zhuang and Yongliang Shen},
       year={2026},
@@ -127,8 +124,8 @@ If you find our work helpful, feel free to give us a cite.
       archivePrefix={arXiv},
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2602.06960}, 
-} -->
-```
+}
+``` -->
 
 ## 🙏 Acknowledgement
 
