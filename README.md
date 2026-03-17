@@ -128,7 +128,7 @@ CoVerRL consistently outperforms TTRL across all models and benchmarks, achievin
 
 The figure below shows the training dynamics of reward/label accuracy for TTRL and CoVerRL on Qwen3-1.7B-Base. CoVerRL maintains reward accuracy above around 90% and boosts label accuracy via generator-verifier co-evolution, while TTRL faces reward accuracy degradation and stagnant label accuracy due to the consensus trap.
 <p align="center">
-  <img src="docs/static/images/intro.png" width="60%" alt="Introduction Overview"/>
+  <img src="docs/static/images/intro.png" width="100%" alt="Introduction Overview"/>
 </p>
 
 <!-- ## Main Results 
