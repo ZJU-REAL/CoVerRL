@@ -5,7 +5,7 @@ Generator-Verifier Co-Evolution</h1>
 
 <div align='center'> 
 
-[Teng Pan](mailto:pt6@zju.edu.cn)<sup>1,2,\*</sup>, &nbsp;
+[Teng Pan](mailto:pt6@zju.edu.cn)<sup>1,2</sup>, &nbsp;
 Yuchen Yan<sup>1</sup>, &nbsp;
 Zixuan Wang<sup>1,2</sup>, &nbsp;
 Ruiqing Zhang<sup>2</sup>, &nbsp;
@@ -19,7 +19,7 @@ Jun Xiao<sup>1</sup>, &nbsp;
 <sup>1</sup>Zhejiang University, &nbsp;
 <sup>2</sup>Baidu Inc.\
 <em>Preprint.</em>  
-<sup>*</sup>Contribution during internship at Baidu Inc. <sup>†</sup>Corresponding Author
+<sup>†</sup>Corresponding Author
 </div>
 
 
@@ -65,12 +65,10 @@ BACKBONE_PATH="path to your backbone"
 
 ### TTRL baseline
 ```bash
-cd verl
 bash recipe/cover_rl/scripts/gpu/ttrl_baseline.sh
 ```
 ### CoVerRL
 ```bash
-cd verl
 bash recipe/cover_rl/scripts/gpu/cover_rl.sh
 ```
 
