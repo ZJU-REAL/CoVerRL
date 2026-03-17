@@ -29,8 +29,8 @@ Jun Xiao<sup>1</sup>, &nbsp;
 <br>
 </p> -->
 
-## 🔥 News 
-- **2026.03.17:** We release our paper.
+<!-- ## 🔥 News 
+- **2026.03.17:** We release our paper. -->
 
 ## 📖 Overview 
 Label-free reinforcement learning for LLMs typically adopts majority voting to generate pseudo-labels, but suffers from a consensus trap—output diversity collapses during training, leading the model to confidently reinforce systematic self-consistent errors. To address this issue, we propose CoVerRL, a novel framework that unifies generator and verifier roles into a single model via multi-turn reinforcement learning, enabling their mutual bootstrapping and co-evolution without external ground-truth labels.
