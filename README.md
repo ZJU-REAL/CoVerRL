@@ -23,14 +23,14 @@ Jun Xiao<sup>1</sup>, &nbsp;
 </div>
 
 
-<!-- <p align="center">
-<img src="docs/static/images/arxiv_logo.png" alt="arXiv" height="14"> <a href="https://arxiv.org/abs/2602.06960">Arxiv</a> 
-| 📑 <a href="https://zju-real.github.io/InftyThink-Plus/">WebPage</a> 
+<p align="center">
+<img src="docs/static/images/arxiv_logo.png" alt="arXiv" height="14"> <a href="https://arxiv.org/abs/2603.17775">Arxiv</a> 
+| 📑 <a href="https://zju-real.github.io/CoVerRL/">WebPage</a> 
 <br>
-</p> -->
+</p>
 
-<!-- ## 🔥 News 
-- **2026.03.17:** We release our paper. -->
+## 🔥 News 
+- **2026.03.18:** We release our paper.
 
 ## 📖 Overview 
 Label-free reinforcement learning for LLMs typically adopts majority voting to generate pseudo-labels, but suffers from a consensus trap—output diversity collapses during training, leading the model to confidently reinforce systematic self-consistent errors. To address this issue, we propose CoVerRL, a novel framework that unifies generator and verifier roles into a single model via multi-turn reinforcement learning, enabling their mutual bootstrapping and co-evolution without external ground-truth labels.
