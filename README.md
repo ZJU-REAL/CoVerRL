@@ -142,17 +142,17 @@ The figure below shows the training dynamics of reward/label accuracy for TTRL a
 
 If you find our work helpful, feel free to give us a cite.
 
-<!-- ```
-@misc{yan2026inftythinkplus,
+```
+@misc{pan2026coverrlbreakingconsensustrap,
       title={CoVerRL: Breaking the Consensus Trap in Label-Free Reasoning via Generator-Verifier Co-Evolution}, 
-      author={Yuchen Yan and Liang Jiang and Jin Jiang and Shuaicheng Li and Zujie Wen and Zhiqiang Zhang and Jun Zhou and Jian Shao and Yueting Zhuang and Yongliang Shen},
+      author={Teng Pan and Yuchen Yan and Zixuan Wang and Ruiqing Zhang and Gaiyang Han and Wanqi Zhang and Weiming Lu and Jun Xiao and Yongliang Shen},
       year={2026},
-      eprint={2602.06960},
+      eprint={2603.17775},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2602.06960}, 
+      url={https://arxiv.org/abs/2603.17775}, 
 }
-``` -->
+```
 
 ## 🙏 Acknowledgement
 
