@@ -30,7 +30,7 @@ Jun Xiao<sup>1</sup>, &nbsp;
 </p>
 
 ## 🔥 News 
-- **2026.04.06:** Our paper has been accepted at ACL 2026 main conference 🎉🎉🎉!
+- **2026.04.06:** Our paper has been accepted at ACL 2026 Main Conference 🎉🎉🎉!
 - **2026.03.18:** We release our paper.
 
 ## 📖 Overview 
