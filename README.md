@@ -3,7 +3,7 @@
 Generator-Verifier Co-Evolution</h1>
 </div>
 
-<div align='center'> 
+<!-- <div align='center'> 
 
 [Teng Pan](mailto:pt6@zju.edu.cn)<sup>1,2</sup>, &nbsp;
 Yuchen Yan<sup>1</sup>, &nbsp;
@@ -20,18 +20,18 @@ Jun Xiao<sup>1</sup>, &nbsp;
 <sup>2</sup>Baidu Inc.\
 <em>Preprint.</em>  
 <sup>†</sup>Corresponding Author
-</div>
+</div> -->
 
 
-<p align="center">
+<!-- <p align="center">
 <img src="docs/static/images/arxiv_logo.png" alt="arXiv" height="14"> <a href="https://arxiv.org/abs/2603.17775">Arxiv</a> 
 | 📑 <a href="https://zju-real.github.io/CoVerRL/">WebPage</a> 
 <br>
-</p>
+</p> -->
 
-## 🔥 News 
+<!-- ## 🔥 News 
 - **2026.04.06:** Our paper has been accepted at ACL 2026 Main Conference 🎉🎉🎉!
-- **2026.03.18:** We release our paper.
+- **2026.03.18:** We release our paper. -->
 
 ## 📖 Overview 
 Label-free reinforcement learning for LLMs typically adopts majority voting to generate pseudo-labels, but suffers from a consensus trap—output diversity collapses during training, leading the model to confidently reinforce systematic self-consistent errors. To address this issue, we propose CoVerRL, a novel framework that unifies generator and verifier roles into a single model via multi-turn reinforcement learning, enabling their mutual bootstrapping and co-evolution without external ground-truth labels.
@@ -139,7 +139,7 @@ The figure below shows the training dynamics of reward/label accuracy for TTRL a
 
 
 
-## 📄 Citation
+<!-- ## 📄 Citation
 
 If you find our work helpful, feel free to give us a cite.
 
@@ -153,12 +153,12 @@ If you find our work helpful, feel free to give us a cite.
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2603.17775}, 
 }
-```
+``` -->
 
 ## 🙏 Acknowledgement
 
 The RL training stack is built on top of the excellent [verl](https://github.com/volcengine/verl) framework. Many thanks to the verl team for open-sourcing the infrastructure that this project extends.
 
-## 📨 Contact Us
+<!-- ## 📨 Contact Us
 If you have any questions, please contact us by email:
-pt6@zju.edu.cn
+pt6@zju.edu.cn -->
